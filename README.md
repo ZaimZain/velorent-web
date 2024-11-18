@@ -1,2 +1,2 @@
 # velorent-web
-Velorent Web UI with React.js Framework
+Velorent PWA Web UI with React.js Framework
